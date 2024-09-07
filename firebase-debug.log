@@ -1,0 +1,21 @@
+[debug] [2024-09-07T12:06:10.538Z] ----------------------------------------------------------------------
+[debug] [2024-09-07T12:06:10.542Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Manuel\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-09-07T12:06:10.542Z] CLI Version:   13.16.0
+[debug] [2024-09-07T12:06:10.543Z] Platform:      win32
+[debug] [2024-09-07T12:06:10.543Z] Node Version:  v20.12.2
+[debug] [2024-09-07T12:06:10.543Z] Time:          Sat Sep 07 2024 14:06:10 GMT+0200 (hora de verano de Europa central)
+[debug] [2024-09-07T12:06:10.543Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-07T12:06:10.552Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-07T12:06:10.552Z] > authorizing via signed-in user (navarrocerdamarcos@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Manuel\Desktop\full_stack\cuidapet
+
